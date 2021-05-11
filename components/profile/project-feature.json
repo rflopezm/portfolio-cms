@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_profile_project_features",
+  "info": {
+    "name": "ProjectFeature",
+    "icon": "angle-right"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    },
+    "images": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_profile_skills",
+  "info": {
+    "name": "Skill",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_profile_projects",
+  "info": {
+    "name": "ProjectComponent",
+    "icon": "allergies",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "project": {
+      "model": "portfolio"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_navigation_menus",
+  "info": {
+    "name": "Menu",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "page": {
+      "model": "page"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "menu",
+        "logo"
+      ]
+    }
+  }
+}

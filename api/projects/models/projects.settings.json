@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "projects",
+  "info": {
+    "name": "Porfolio",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "projects": {
+      "type": "component",
+      "repeatable": true,
+      "component": "profile.project"
+    }
+  }
+}
